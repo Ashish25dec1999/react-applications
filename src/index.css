@@ -16,7 +16,7 @@ code {
   width: 420px;
   background-color: rgba(168, 204, 212);
   margin: auto;
-  text-align: center;
+  /* text-align: center; */
   padding: 20px;
   margin-top: 55px;
 }
@@ -27,7 +27,7 @@ code {
   border: none;
   border-radius: 3px;
   padding: 10px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 .container button{
@@ -42,3 +42,4 @@ code {
   cursor: pointer;
   background-color: #ffff;
 }
+

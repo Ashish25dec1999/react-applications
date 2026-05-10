@@ -2,13 +2,17 @@ import logo from './logo.svg';
 import './App.css';
 // import Calculator from './Components/Calculator';
 // import DigitalClock from './Components/Digital-Clock';
-import { GreetWebsite } from './Components/Greeting-Website';
+// import { GreetWebsite } from './Components/Greeting-Website';
+import { LightmodeDarkmode } from './Components/Dark-Light mode';
+import Todo from './Components/To-Do';
+import IncremenetDecrement from './Components/increment-decrement';
+import FromValidation from './Components/FormValidation';
 
 function App() {
   return (
     <>
       {/* <Calculator/> */}
-      <GreetWebsite/>
+      <FromValidation/>
     </>
   );
 }
