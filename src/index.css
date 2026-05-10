@@ -43,3 +43,8 @@ code {
   background-color: #ffff;
 }
 
+.searchRecipe{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
